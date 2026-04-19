@@ -1,0 +1,28 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# requirements.txt — Breast Cancer Histopathology Classification
+# ─────────────────────────────────────────────────────────────────────────────
+# Install with:
+#   pip install -r requirements.txt
+#
+# GPU note: replace the torch line with the CUDA wheel appropriate
+# for your driver, e.g.
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+
+# ── Deep Learning ──────────────────────────────────────────────────────────
+torch>=2.2.0
+torchvision>=0.17.0
+
+# ── Machine Learning ───────────────────────────────────────────────────────
+scikit-learn>=1.4.0
+xgboost>=2.0.3
+
+# ── Multi-Objective Optimisation ───────────────────────────────────────────
+pymoo>=0.6.1
+
+# ── Data Handling & Numerics ───────────────────────────────────────────────
+numpy>=1.26.0
+pandas>=2.2.0
+Pillow>=10.2.0
+
+# ── Progress / Display ─────────────────────────────────────────────────────
+tqdm>=4.66.0

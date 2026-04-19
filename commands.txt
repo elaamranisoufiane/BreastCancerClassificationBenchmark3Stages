@@ -1,0 +1,15 @@
+conda deactivate  
+
+.venv\Scripts\activate  
+
+# start stage1 :
+
+python mainV3.py --stage 1 
+
+# start stage 2 
+
+python mainV3.py --stage 2
+
+# start the final stage 
+
+python mainV3.py --stage 3 
