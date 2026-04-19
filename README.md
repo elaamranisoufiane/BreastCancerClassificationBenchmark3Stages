@@ -1,3 +1,11 @@
+#Datasets 
+
+## breakHis dataset for binary classification :
+https://drive.google.com/drive/folders/18ngqOyXeIpWXTvS-Pza4F7hf-tpdP-b_?usp=sharing
+## IDC datasets for binary classification  :
+https://drive.google.com/drive/folders/1vhaIfdobfTW7HQ74EuNcyie7E-iJTGUo?usp=sharing
+
+
 # Breast Cancer Histopathology Classification — 3-Stage Pipeline
 
 ## Architecture Overview
